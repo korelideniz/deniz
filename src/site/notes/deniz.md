@@ -3,6 +3,6 @@
 ---
 
 ---
-dg-publish:
-true dg-home: true
+merhaba
+hos geldiniz
 ---
